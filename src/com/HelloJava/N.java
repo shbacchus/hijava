@@ -18,7 +18,7 @@ public class N {
 		System.out.println("x = " + a.x);
 		System.out.println("y = " + a.y);
 
-		//swap ¼öÁ¤
+		//swap ë³€ê²½
 		a.swap();
 
 		System.out.println("swap x = " + a.x);
